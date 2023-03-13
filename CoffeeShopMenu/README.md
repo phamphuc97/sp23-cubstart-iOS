@@ -1,2 +1,2 @@
 # Coffe Shop Menu
-Starter code of Homework 3 of CalHacks iOS Decal
+A program that implements the UI of a Coffee Shop Menu + price calculator using SwiftUI and some of its functionality! 
